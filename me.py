@@ -6,3 +6,4 @@ print("this is multiple of those two number's ", a*b)
 print("this is devision ", a/b)
 print("new statment ")
 "yakopa"
+"ice cream"
