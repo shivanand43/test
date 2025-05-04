@@ -1,5 +1,5 @@
 print("hello shiva namasthe ")
-a=1
+a=6
 b=2
 print(a+b)
 print("this is multiple of those two number's ", a*b)
