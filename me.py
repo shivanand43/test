@@ -7,3 +7,4 @@ print("this is devision ", a/b)
 print("new statment ")
 "yakopa"
 "ice cream"
+"adya "
