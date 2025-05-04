@@ -1,9 +1,9 @@
 print("hello shiva namasthe ")
-a=6
+take =int(input("eneter the number "))
 b=2
-print(a+b)
-print("this is multiple of those two number's ", a*b)
-print("this is devision ", a/b)
+print(take+b)
+print("this is multiple of those two number's ", take*b)
+print("this is devision ", take/b)
 print("new statment ")
 "yakopa"
 "ice cream"
